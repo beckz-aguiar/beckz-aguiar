@@ -16,8 +16,6 @@
 <a href="https://www.youtube.com/@beckzaguiar134/playlists" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
 </div>
 
-![git_hub](https://github.com/user-attachments/assets/414a59a0-e4e5-4100-b7d9-53449eb04a9d)
-
 
 
 <!--
