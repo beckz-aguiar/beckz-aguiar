@@ -1,11 +1,11 @@
 # Olá, me chamo Beckz :)
-# Seja bem-vindo (a/e) ao meu perfil! ![image](https://github.com/user-attachments/assets/5a85417a-56d3-4f28-9213-394917c62e44)
+# Seja bem-vindo (a/e) ao meu perfil!
 
 
 # Para o desenvolvimento de análises e tratamentos de dados, utilizo ferramentas e tecnologias como:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width="40" height="40" />
 
 ## Contatos:
 
