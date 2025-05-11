@@ -4,7 +4,7 @@ Sou analista de dados e tenho uma paixão por transformar informações em insig
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRqODRydTQwcnY0ODlkajJ1OWoxejdlcDIxMnFtN2JxdGs3MWNkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UEGwYCVTBFa9tJEf66/giphy.gif" width="300" alt="GIF engraçado de cientista de dados">
 
-> ❝𝑫𝒂𝒅𝒐𝒔 𝒃𝒆𝒎 𝒅𝒊𝒔𝒕𝒓𝒊𝒃𝒖𝒊𝒅𝒐𝒔 = 𝑫𝒊𝒗𝒆𝒓𝒔𝒊𝒅𝒂𝒅𝒆 🏳️‍🌈❞
+> ❝𝑫𝒂𝒅𝒐𝒔 𝒃𝒆𝒎 𝒅𝒊𝒔𝒕𝒓𝒊𝒃𝒖𝒊𝒅𝒐𝒔 = 𝑫𝒊𝒗𝒆𝒓𝒔𝒊𝒅𝒂𝒅𝒆 🌈❞
 
 ---
 
