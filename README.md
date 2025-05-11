@@ -1,4 +1,4 @@
-# 𝑶𝒊𝒊, 𝒆𝒖 𝒎𝒆 𝒄𝒉𝒂𝒎𝒐 𝑩𝒆𝒄𝒌𝒛 ツ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRnZ2I1eThjcGk4cnE3ejNpd3NnaTExc3MzeTRqN2xwZXF0OWlseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="40" style="vertical-align:middle" />  
+# 𝑶𝒊𝒊, 𝒆𝒖 𝒎𝒆 𝒄𝒉𝒂𝒎𝒐 𝑩𝒆𝒄𝒌𝒛 ツ  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRnZ2I1eThjcGk4cnE3ejNpd3NnaTExc3MzeTRqN2xwZXF0OWlseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="40" style="vertical-align:middle" />  
 
 Sou analista de dados e tenho uma paixão por transformar informações em insights que realmente fazem a diferença.
 
