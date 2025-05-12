@@ -43,7 +43,7 @@ Atuo como 𝐀𝐧𝐚𝐥𝐢𝐬𝐭𝐚 𝐝𝐞 𝐃𝐚𝐝𝐨𝐬 & 𝐀�
 
 ## ▸ ᴘʀᴏᴊᴇᴛᴏs ᴅᴇ ᴅᴇsᴛᴀǫᴜᴇ
 
-➭ *Público*: Dashboard Exploratório e interativo com Dados Abertos do INSS • 𝑺𝒕𝒓𝒆𝒂𝒎𝒍𝒊𝒕
+➭ *Público*: [Dashboard Exploratório](https://github.com/beckz-aguiar/Dashboard_INSS) e interativo com Dados Abertos do INSS • 𝑺𝒕𝒓𝒆𝒂𝒎𝒍𝒊𝒕
 
 ➭  *Corporativo*: Dashboard interativo de monitoramento do Data Quality da área • 𝑸𝒖𝒊𝒄𝒌𝑺𝒊𝒈𝒉𝒕
 
